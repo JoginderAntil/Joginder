@@ -1,0 +1,27 @@
+{
+  "name": "joginder",
+  "version": "1.0.0",
+  "description": "This is for learning Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoginderAntil/Joginder.git"
+  },
+  "author": "Joginder Antil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoginderAntil/Joginder/issues"
+  },
+  "homepage": "https://github.com/JoginderAntil/Joginder#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
